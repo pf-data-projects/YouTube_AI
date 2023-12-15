@@ -1,0 +1,4 @@
+data/Task Ratings.xlsx
+outputs/normalised_df.csv
+outputs/pivoted_df.csv
+outputs/weighted_proportions.csv
